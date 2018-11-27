@@ -21,7 +21,7 @@
 
 * [Chemotaxis](https://sunkuma.github.io/chemotaxis4/)
 #### reflection 
-- Chemotaxis was also an interesting lab, which I also struggled with very much intially to get the correct movement of the objects to follow the cursor. Chemotaxis wasn't to bad in terms of creating multiple objects since we had just done the dice lab, but it wasn't the biggest obstacle for this project.  
+- Chemotaxis was also an interesting lab, but I also struggled very much to get the correct movement of the objects to follow the cursor. Chemotaxis wasn't bad in terms of creating multiple objects since we had just done the dice lab, but trying to make the movement of the objects smoother was also another struggle .  
 
 * [Starfield](https://sunkuma.github.io/starfield5/)
 #### reflection 
