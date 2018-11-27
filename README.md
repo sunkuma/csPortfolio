@@ -7,7 +7,7 @@
 <summary> webpage </summary>
 <br>
 <webpage>
-* [WebPage](https://sunkuma.github.io/WebPage/bigSur/)
+[WebPage](https://sunkuma.github.io/WebPage/bigSur/)
 #### reflection 
 - even though I had never had any expiernce in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
 </details> 
