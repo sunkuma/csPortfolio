@@ -110,12 +110,10 @@ class NormalParticle implements Particle {
 
 ```
 <details>
-<summary> Starfield </summary>
+<summary>  Additonal Questions  </summary>
 <br>
 <Starfield>
- 
- 
-### Additonal Questions 
+
 
 1. Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.
 
