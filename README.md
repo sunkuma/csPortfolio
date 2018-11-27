@@ -1,11 +1,11 @@
 
 # csPortfolio
-## this is my CS portfolio,  showcases various projects done during trimester 1
+## this is my CS portfolio; it showcases the projects done during trimester 1.
 
 
 * WebPage [here](https://sunkuma.github.io/WebPage/bigSur/)
 * Lighthing [here](https://sunkuma.github.io/lightning2/)
-* Lighning JS [here](https://sunkuma.github.io/lightning2/LightningJavaScript/index.html)
+* Lightning JS [here](https://sunkuma.github.io/lightning2/LightningJavaScript/index.html)
 * Dice [here](https://sunkuma.github.io/dice3/)
 * Chemotaxis [here](https://sunkuma.github.io/chemotaxis4/)
 * Starfield [here](https://sunkuma.github.io/starfield5/)
