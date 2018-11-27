@@ -1,6 +1,8 @@
 
 # csPortfolio
 ## Anoushka's Trimester 1 CSportfolio.
+
+
 <details>
 <summary> webpage </summary>
 <br>
@@ -8,7 +10,7 @@
 * [WebPage](https://sunkuma.github.io/WebPage/bigSur/)
 #### reflection 
 - even though I had never had any expiernce in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
- 
+</details> 
  
 <details>
 <summary> Lightning </summary>
@@ -16,7 +18,8 @@
 <Lightning>
 * [Lighthing](https://sunkuma.github.io/lightning2/)
 #### reflection 
-- Initially lightning was one of the more difficult labs for me, and I had struggled to figure out the logic and purpose behind what each variable and methid would be utilized for. Since it was the project I struggled the most with, it was also the most rewarding once the code finally ran correctly.  
+- Initially lightning was one of the more difficult labs for me, and I had struggled to figure out the logic and purpose behind what each variable and methid would be utilized for. Since it was the project I struggled the most with, it was also the most rewarding once the code finally ran correctly. 
+ </details>
 
 * [Lightning JS](https://sunkuma.github.io/lightning2/LightningJavaScript/index.html)
 #### reflection
