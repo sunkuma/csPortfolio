@@ -1,3 +1,7 @@
+</style>
+</head>
+<body>
+
 # csPortfolio
 
 * WebPage [here](https://sunkuma.github.io/WebPage/bigSur/)
@@ -55,9 +59,6 @@ void draw () {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-</style>
-</head>
-<body>
 
 <h2>Hoverable Dropdown</h2>
 <p>Move the mouse over the text below to open the dropdown content.</p>
