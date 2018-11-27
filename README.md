@@ -1,5 +1,7 @@
 
 # csPortfolio
+## this is my CS portfolio,  showcases various projects done during trimester 1
+
 
 * WebPage [here](https://sunkuma.github.io/WebPage/bigSur/)
 * Lighthing [here](https://sunkuma.github.io/lightning2/)
