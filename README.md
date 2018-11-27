@@ -1,6 +1,11 @@
 
 # csPortfolio
 ## Anoushka's Trimester 1 CSportfolio.
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<details>
 
 
 * [WebPage](https://sunkuma.github.io/WebPage/bigSur/)
@@ -79,3 +84,6 @@ class NormalParticle implements Particle {
 }
 
 ```
+
+### Additonal Questions 
+
