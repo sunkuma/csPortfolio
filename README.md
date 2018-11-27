@@ -1,6 +1,6 @@
 
 # csPortfolio
-## this is my CS portfolio; it showcases the projects done during trimester 1.
+## Anoushka's Trimester 1 CSportfolio.
 
 
 * WebPage [here](https://sunkuma.github.io/WebPage/bigSur/)
