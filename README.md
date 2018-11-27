@@ -10,25 +10,52 @@
 
 
 ```Java
-void draw () { 
-  background(0); 
-
-  rand1 = (int)(Math.random()*255)+1;
-  rand2 = (int)(Math.random()*255)+1;
-  rand3 = (int)(Math.random()*255)+1;
-  stroke(rand1, rand2, rand3); 
-  while (endY < 400){
-  endY = startY + (int)(Math.random()*10);
-  endX = startX + (int)(Math.random()* 19)-9;
-  line(startX, startY, endX, endY);
-  startY = endY;
-  startX= endX;
-  
- fill(255, 255, 255);
-  rect(0, 0, 400, 30); 
-  fill(255, 255, 255);
-  rect(0, 370, 400, 30); 
+class NormalParticle implements Particle {
+//your code here
+ double x; 
+ double y; 
+ double z;
+ double speed; 
+ double angle;
  
+ NormalParticle(){
+  x = width/2;
+  y = width/2; 
+  z=  0;
+  speed = (double)(Math.random()*8);
+  angle = (Math.random()*Math.PI*2); 
+
+  } 
+     void move() {
+ 
+    x += Math.cos(angle)*speed;
+    y += Math.sin(angle)*speed; 
+    z += 1;
+    rotateX(mouseY*.01);
+    rotateY(mouseX*.01);
+    rotateZ(PI/4);
+    angle -= PI/240; 
+    
+  }
+    void move2() {
+    x += Math.cos(angle)*speed;
+    y += Math.sin(angle)*speed; 
+    z += x*x+y*y;
+   rotateX(mouseY*.01);
+   rotateY(mouseX*.01);
+   rotateZ(PI*2);
+   angle += PI/120; 
+  }
+   void show() {
+     if (speed >= 0 && speed <= 1.6) {
+    noStroke();
+    fill(237, 179, 255);
+    ellipse((int)(x), (int)(y), 7, 7);
+    } else if (speed > 1.6 && speed <= 3.2) {
+    noStroke();
+    fill(209, 145, 232);
+    ellipse((int)(x), (int)(y), 7, 7);
+    } 
   }
 }
 
