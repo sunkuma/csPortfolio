@@ -22,7 +22,7 @@
  </details>
 
 <details>
-<summary> Lightning </summary>
+<summary> Lightning JS</summary>
 <br>
 <Lightning JS>
 * [Lightning JS][https://sunkuma.github.io/lightning2/LightningJavaScript/index.html]
@@ -31,7 +31,7 @@
 </details> 
 
 <details>
-<summary> Lightning </summary>
+<summary> Dice </summary>
 <br>
 <Dice>
 * [Dice][https://sunkuma.github.io/dice3/]
@@ -40,7 +40,7 @@
 </details> 
 
 <details>
-<summary> Lightning </summary>
+<summary> Chemotaxis </summary>
 <br>
 <Chemotaxis>
 * [Chemotaxis][https://sunkuma.github.io/chemotaxis4/]
@@ -49,7 +49,7 @@
 </details> 
 
 <details>
-<summary> Lightning </summary>
+<summary> Starfield </summary>
 <br>
 <Starfield>
 * [Starfield][https://sunkuma.github.io/starfield5/]
