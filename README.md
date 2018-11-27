@@ -12,8 +12,6 @@ reflection
 - even though I had never had any experience in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
 </details> 
 
-
- 
 <details>
 <summary> Lightning </summary>
 <br>
@@ -36,9 +34,7 @@ reflection
 <summary> Dice </summary>
 <br>
 <Dice>
- 
- 
-* [Dice][https://sunkuma.github.io/dice3/]
+ [Dice][https://sunkuma.github.io/dice3/]
 reflection 
 - This lab was pretty straightforward after experimenting with how the logic of the code functioned in order for the right amount of dots to show up based on the corresponding number; From that point on, my objective went from making it work to making it creative, unique, etc. 
 </details> 
@@ -124,5 +120,13 @@ class NormalParticle implements Particle {
 1. Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.
 
 In this block of code, I displayed a condensed version of the class NormalParticle from my Starfield project. Two distinct features of this code would be the functions of MouseX and MouseY, as well as the methods of RotateX, RotateY, and RotateZ. Because I implemented a 3rd parameter in my setup that allowed for my display to be a 3D space, giving me more creative opportunity for the visual. Using a 3D space, however, meant that I would have to learn how to implement new methods unique to the 3D space that would give me the desired visual. It was lot of trial and error trying to figure out how to get all three rotate methods to work together in order to make the visual interesting as well as keep the array of ellipses in the boundaries of the screen. That’s when I found MouseX and MouseY to be helpful in not only containing the spiraling ellipses, but also creating really interesting movement of the circles too. 
+
+2. What is a source of pride in your programming development?  
+
+In my programming development, one source that is significant to me is being able to learn and be exposed to many different programming languages this past trimester such as Java, Javascript, HTML, and CSS. Seeing how all these different languages work has allowed me to understand the higher-order principles of what connects all these languages, which hopefully in the future will make it more efficient for me to pick up any new languages. With the help of the worksheets and the collaborative environment in the computer science classroom, and exploration through the APIs, I was able to grasp a siginificant understanding of how these languages work and I could potentially do with them in the future. 
+
+3. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
+
+I think the hardest part of trimester one Comp Sci would be the times we would start new projects and labs, and being indepedent for the first time with very little foundation for how or where to start. It was dissapointing to sit there with a blank text editor, but I was able to resolve these situations by writing out parts of the lab in pseudo code as well as being able to look through past assignments or getting help from other classmates.
 
 
