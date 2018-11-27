@@ -36,6 +36,8 @@ reflection
 <summary> Dice </summary>
 <br>
 <Dice>
+ 
+ 
 * [Dice][https://sunkuma.github.io/dice3/]
 reflection 
 - This lab was pretty straightforward after experimenting with how the logic of the code functioned in order for the right amount of dots to show up based on the corresponding number; From that point on, my objective went from making it work to making it creative, unique, etc. 
@@ -111,6 +113,16 @@ class NormalParticle implements Particle {
 }
 
 ```
-
+<details>
+<summary> Starfield </summary>
+<br>
+<Starfield>
+ 
+ 
 ### Additonal Questions 
+
+1. Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.
+
+In this block of code, I displayed a condensed version of the class NormalParticle from my Starfield project. Two distinct features of this code would be the functions of MouseX and MouseY, as well as the methods of RotateX, RotateY, and RotateZ. Because I implemented a 3rd parameter in my setup that allowed for my display to be a 3D space, giving me more creative opportunity for the visual. Using a 3D space, however, meant that I would have to learn how to implement new methods unique to the 3D space that would give me the desired visual. It was lot of trial and error trying to figure out how to get all three rotate methods to work together in order to make the visual interesting as well as keep the array of ellipses in the boundaries of the screen. That’s when I found MouseX and MouseY to be helpful in not only containing the spiraling ellipses, but also creating really interesting movement of the circles too. 
+
 
