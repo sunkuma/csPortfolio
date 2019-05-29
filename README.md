@@ -11,23 +11,25 @@
   <blockquote>  WebPage reflection
   <blockquote>  even though I had never had any experience in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
 </details> 
+    
 <hr>
 <details>
 <summary> Dice </summary>
 <br>
 <Dice>
  <p><a href="https://sunkuma.github.io/dice3/">Link here</a></p>
-> Dice reflection 
-> This lab was pretty straightforward after experimenting with how the logic of the code functioned in order for the right amount of dots to show up based on the corresponding number; From that point on, my objective went from making it work to making it creative, unique, etc. 
+<blockquote> Dice reflection 
+<blockquote> This lab was pretty straightforward after experimenting with how the logic of the code functioned in order for the right amount of dots to show up based on the corresponding number; From that point on, my objective went from making it work to making it creative, unique, etc. 
 </details> 
+  
 <hr>
 <details>
 <summary> Chemotaxis </summary>
 <br>
 <Chemotaxis>
  <p><a href="https://sunkuma.github.io/Chemotaxis/">Link here</a></p>
-> Chemotaxis reflection 
-> Chemotaxis was also an interesting lab, but I also struggled very much to get the correct movement of the objects to follow the cursor. Chemotaxis wasn't bad in terms of creating multiple objects since we had just done the dice lab, but trying to make the movement of the objects smoother was also another struggle.  
+<blockquote> Chemotaxis reflection 
+<blockquote> Chemotaxis was also an interesting lab, but I also struggled very much to get the correct movement of the objects to follow the cursor. Chemotaxis wasn't bad in terms of creating multiple objects since we had just done the dice lab, but trying to make the movement of the objects smoother was also another struggle.  
 </details> 
 <hr>
 <details>
