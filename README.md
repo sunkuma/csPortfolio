@@ -7,27 +7,10 @@
 <summary> webpage </summary>
 <br>
 <webpage>
-[WebPage][https://sunkuma.github.io/WebPage/bigSur/]
+<p><a href="https://sunkuma.github.io/WebPage/bigSur/">Link here</a></p>
+[WebPage]
 reflection
 - even though I had never had any experience in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
-</details> 
-
-<details>
-<summary> Lightning </summary>
-<br>
-<Lightning>
-[Lighthing][https://sunkuma.github.io/lightning2/]
-reflection 
-- Initially lightning was one of the more difficult labs for me, and I had struggled to figure out the logic and purpose behind what each variable and methid would be utilized for. Since it was the project I struggled the most with, it was also the most rewarding once the code finally ran correctly. 
- </details>
-
-<details>
-<summary> Lightning JS</summary>
-<br>
-<Lightning JS>
-[Lightning JS][https://sunkuma.github.io/lightning2/LightningJavaScript/index.html]
-reflection
--  Lightning JS was pretty straightforward due to the sheet that had the "conversions" between the two languages. However,  trying to translate the code was different than expected since (for me anyways) my lightning in Java and JS looked significantly different
 </details> 
 
 <details>
