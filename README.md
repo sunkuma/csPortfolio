@@ -44,7 +44,8 @@ reflection
 <summary> Chemotaxis </summary>
 <br>
 <Chemotaxis>
-[Chemotaxis][https://sunkuma.github.io/chemotaxis4/]
+ <p><a href="https://sunkuma.github.io/Chemotaxis/">Link here</a></p>
+[Chemotaxis]
 reflection 
 - Chemotaxis was also an interesting lab, but I also struggled very much to get the correct movement of the objects to follow the cursor. Chemotaxis wasn't bad in terms of creating multiple objects since we had just done the dice lab, but trying to make the movement of the objects smoother was also another struggle.  
 </details> 
@@ -53,7 +54,8 @@ reflection
 <summary> Starfield </summary>
 <br>
 <Starfield>
-[Starfield][https://sunkuma.github.io/starfield5/]
+<p><a href= "https://sunkuma.github.io/starfield5/">Link here</a></p>
+[Starfield]
 reflection 
 - Starfield was probably my favorite project out of all of the ones from trimester one; I invested a lot of time into trying to figure out how to code a creative visual while also preserving the main purpose of the lab. It was challenging, but fun to combine math concepts like trig with other aspects such as MouseX/MouseY, 3D speaces, and adobe kuler to create my final version of starfield. 
 </details> 
