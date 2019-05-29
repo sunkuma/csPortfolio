@@ -11,7 +11,7 @@
    >  WebPage reflection
    >  even though I had never had any experience in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
 </details> 
-***
+<hr>
 <details>
 <summary> Dice </summary>
 <br>
@@ -29,7 +29,7 @@
 > Chemotaxis reflection 
 > Chemotaxis was also an interesting lab, but I also struggled very much to get the correct movement of the objects to follow the cursor. Chemotaxis wasn't bad in terms of creating multiple objects since we had just done the dice lab, but trying to make the movement of the objects smoother was also another struggle.  
 </details> 
-***
+<hr>
 <details>
 <summary> Starfield </summary>
 <br>
@@ -38,7 +38,7 @@
 > Starfield reflection 
 > Starfield was probably my favorite project out of all of the ones from trimester one; I invested a lot of time into trying to figure out how to code a creative visual while also preserving the main purpose of the lab. It was challenging, but fun to combine math concepts like trig with other aspects such as MouseX/MouseY, 3D speaces, and adobe kuler to create my final version of starfield. 
 </details> 
-*** 
+<hr>
 <details>
 <summary> Decentraland presentation </summary>
 <br>
@@ -47,7 +47,7 @@
 Decentraland reflection 
 > Here is an innovation presentation I worked on during trimester two. We discuss the monetized VR platform Dentraland, and the trend and relvance of blockchain.  
 </details> 
-____________________________________________________________________ 
+<hr>
 <details>
 <summary> college presentation </summary>
 <br>
@@ -56,7 +56,7 @@ ____________________________________________________________________
 college reflection 
 > Here is a college presentation discussing the CS program at Purdue University and an interview with a department head.  
 </details>
-____________________________________________________________________       
+<hr>  
 <details>
 <summary>  Additonal Questions  </summary>
 <br>
