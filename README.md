@@ -8,8 +8,8 @@
 <br>
 <webpage>
 <p><a href="https://sunkuma.github.io/WebPage/bigSur/">Link here</a></p>
-> WebPage reflection
-> even though I had never had any experience in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
+   >  WebPage reflection
+   >  even though I had never had any experience in CSS or HTML, it was still a great experience to be able to work with these languages, which ended up not being that difficult to grasp either. Coding in the language wasn't the most difficult part, but getting an idea was not easy, which made it more difficult on how to display random material around that idea.  
 </details> 
 ___________________________________________________________________
 <details>
