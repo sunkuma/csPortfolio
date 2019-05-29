@@ -47,7 +47,15 @@ ____________________________________________________________________
 Decentraland reflection 
 > Here is an innovation presentation I worked on during trimester two. We discuss the monetized VR platform Dentraland, and the trend and relvance of blockchain.  
 </details> 
-
+____________________________________________________________________ 
+<details>
+<summary> college presentation </summary>
+<br>
+<Decentraland >
+<p><a href= "https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing">Link here</a></p>
+college reflection 
+> Here is a college presentation discussing the CS program at Purdue University and an interview with a department head.  
+</details>
 
 ```Java
 class NormalParticle implements Particle {
