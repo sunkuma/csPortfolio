@@ -37,8 +37,8 @@
 <br>
 <Starfield>
 <p><a href= "https://sunkuma.github.io/starfield5/">Link here</a></p>
-> Starfield reflection 
-> Starfield was probably my favorite project out of all of the ones from trimester one; I invested a lot of time into trying to figure out how to code a creative visual while also preserving the main purpose of the lab. It was challenging, but fun to combine math concepts like trig with other aspects such as MouseX/MouseY, 3D speaces, and adobe kuler to create my final version of starfield. 
+<blockquote>  Starfield reflection 
+<blockquote>  Starfield was probably my favorite project out of all of the ones from trimester one; I invested a lot of time into trying to figure out how to code a creative visual while also preserving the main purpose of the lab. It was challenging, but fun to combine math concepts like trig with other aspects such as MouseX/MouseY, 3D speaces, and adobe kuler to create my final version of starfield. 
 </details> 
 <hr>
 <details>
@@ -47,7 +47,7 @@
 <Decentraland >
 <p><a href= "https://docs.google.com/presentation/d/1CH9c5Ir5YhuqLwrs7V63sUpxnBCTw4EdJ5O34G85wxY/edit?usp=sharing">Link here</a></p>
 Decentraland reflection 
-> Here is an innovation presentation I worked on during trimester two. We discuss the monetized VR platform Dentraland, and the trend and relvance of blockchain.  
+<blockquote> Here is an innovation presentation I worked on during trimester two. We discuss the monetized VR platform Dentraland, and the trend and relvance of blockchain.  
 </details> 
 <hr>
 <details>
@@ -56,7 +56,7 @@ Decentraland reflection
 <Decentraland >
 <p><a href= "https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing">Link here</a></p>
 college reflection 
-> Here is a college presentation discussing the CS program at Purdue University and an interview with a department head.  
+<blockquote> Here is a college presentation discussing the CS program at Purdue University and an interview with a department head.  
 </details>
 <hr>  
 <details>
