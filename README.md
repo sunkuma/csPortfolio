@@ -20,7 +20,7 @@
 > Dice reflection 
 > This lab was pretty straightforward after experimenting with how the logic of the code functioned in order for the right amount of dots to show up based on the corresponding number; From that point on, my objective went from making it work to making it creative, unique, etc. 
 </details> 
-***
+<hr>
 <details>
 <summary> Chemotaxis </summary>
 <br>
