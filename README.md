@@ -42,6 +42,15 @@ reflection
 reflection 
 - Starfield was probably my favorite project out of all of the ones from trimester one; I invested a lot of time into trying to figure out how to code a creative visual while also preserving the main purpose of the lab. It was challenging, but fun to combine math concepts like trig with other aspects such as MouseX/MouseY, 3D speaces, and adobe kuler to create my final version of starfield. 
 </details> 
+ 
+<details>
+<summary> Decentraland presentation </summary>
+<br>
+<Decentraland >
+<p><a href= "https://docs.google.com/presentation/d/1CH9c5Ir5YhuqLwrs7V63sUpxnBCTw4EdJ5O34G85wxY/edit?usp=sharing">Link here</a></p>
+Decentraland reflection 
+- Here is an innovation presentation I worked on during trimester two. We discuss the monetized VR platform Dentraland, and the trend and relvance of blockchain.  
+</details> 
 
 
 ```Java
@@ -107,10 +116,9 @@ In this block of code, I displayed a condensed version of the class NormalPartic
 
 2. What is a source of pride in your programming development?  
 
-In my programming development, one source that is significant to me is being able to learn and be exposed to many different programming languages this past trimester such as Java, Javascript, HTML, and CSS. Seeing how all these different languages work has allowed me to understand the higher-order principles of what connects all these languages, which hopefully in the future will make it more efficient for me to pick up any new languages. With the help of the worksheets and the collaborative environment in the computer science classroom, and exploration through the APIs, I was able to grasp a siginificant understanding of how these languages work and I could potentially do with them in the future. 
+In my programming development, one source that is significant to me is being able to learn and be exposed to many different programming languages this past trimester such as Java, Javascript, HTML, and CSS. Seeing how all these different languages work has allowed me to understand the higher-order principles of what connects all these languages, which hopefully in the future will make it more efficient for me to pick up any new languages. Again, starfield, chemotaxis, and dice were all projects that I enjoyed working on and invested a lot of time into; they were good labs to introduce us into the curriculum and also were creative too.  
 
 3. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 
-I think the hardest part of trimester one Comp Sci would be the times we would start new projects and labs, and being indepedent for the first time with very little foundation for how or where to start. It was dissapointing to sit there with a blank text editor, but I was able to resolve these situations by writing out parts of the lab in pseudo code as well as being able to look through past assignments or getting help from other classmates.
-
+The hardest part of Comp Sci this year for me were the times we would start new projects or data structures and, intially, have very little foundation for how or where to start. It was dissapointing to sit there with a blank text editor, but I was able to work through code by writing out parts of the lab in pseudocode,looking through past assignments, or getting help from other classmates. The print outs were also a great help towards the more difficult data structures. It would be convenient at times to ask for help or look up the code, but I learned the mose when I took the time to problem solve and work through all the bugs. 
 
